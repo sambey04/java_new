@@ -1,0 +1,14 @@
+home work
+
+2) write a program to understand public and default access modifiers of class 
+3) write a program to understand local and instance variable initilization 
+4) write a program to understand paclage statement 
+
+28 jan 2019
+
+1) write a program using parametrized and non parameterized constructer
+2) write a program to demonstrate super keyword in constructer of derived class 
+3) write a program to demonstrate protected access modifier 
+4) write a program to demonstrate abstract class and inheritance .
+
+
